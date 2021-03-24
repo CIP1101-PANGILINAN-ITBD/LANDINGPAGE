@@ -1,0 +1,85 @@
+	body {
+			
+			background-color:#F0E7D7;
+			font-size: 1.125em;
+			font-family: Tahoma;
+			margin: 30px;
+		}
+	
+	h1 {
+			font-family: Georgia, Serif; 
+			background-color: #e6fad7 ;
+			color: 	#C0AAEF; 
+			font-size:4em;
+			text-transform: uppercase; 
+			word-spacing:20px; 
+			letter-spacing:4px; 
+			text-align: center;
+			text-shadow: 5px 5px 3px #ffbdbd;
+		}
+	img {
+			height:200px;
+			margin-left: 50px;
+			margin-right: 55px;
+			border-radius: 20px;
+		}
+	.aboutMe {
+			background-color: #FFB9A2;		
+		}
+	a:hover.aboutMe {
+			box-shadow: 20px 20px 30px #FFB9A2;	
+			background-color: #BB8FCE;
+			font-style: italic;
+		}
+	.myResume {
+			background-color: #94D1E4;
+		}
+	a:hover.myResume {
+			box-shadow: 20px 20px 30px #94D1E4;	
+			background-color: #F4D03F;	
+			font-style: italic;
+		}
+	.myBeat {
+			background-color: #F8C471;
+		}
+	a:hover.myBeat {
+			box-shadow: 20px 20px 30px #F8C471;	
+			background-color: #EC7063;	
+			font-style: italic;
+		}
+	
+	.myFilm {
+			background-color: #1ABC9C;
+			word-wrap: break-word;
+		}
+	a:hover.myFilm {
+			box-shadow: 20px 20px 30px #1ABC9C;	
+			background-color: #FFC1D7;	
+			font-style: italic;
+		}
+				
+	a {
+			font-family: Verdana;
+			font-size: 25px;
+			text-align: center;
+			line-height: 70px;
+			color: white;
+			text-decoration: none;
+			padding: .75em ;
+			border: 6px inset #BFCECE;
+			display: inline-block;
+			margin: 30px;
+			width: 200px;
+			height: 80px;	
+				
+		}
+	a:focus {
+			background-color: #707B7C;	
+			border: 5px dashed #C0AAEF;
+			border-radius: 5px;
+		}
+	a:active {
+			background-color: black;
+			color: black;
+		}
+		

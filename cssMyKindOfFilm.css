@@ -1,0 +1,78 @@
+	body {
+			
+			background-color:#e6fad7;
+			font-size: 1.125em;
+			font-family: Tahoma;
+			margin: 50px;
+		}
+	
+	h1 {
+			font-family: Georgia, Serif; 
+			color: white	; 
+			font-size: 70px;
+			text-transform: uppercase; 
+			word-spacing:20px; 
+			letter-spacing:4px; 
+			text-align: center;
+			text-shadow: 5px 5px 3px #ffbdbd ;
+			margin: 5px;
+			margin-right: 140px;
+		}
+	h2 {
+			font-family:Georgia; 
+			font-style: oblique;
+			font-size: 48px;
+			margin: 0px 30px;
+			text-shadow: 5px 5px 5px #DEAAA8;
+			padding-left: 40px;
+			
+		}
+	mark {
+			background-color:white;
+			color: #dd4444;
+		}
+	h3 {
+			font-family: Tahoma;
+			font-size: 40px;
+			text-align: center;
+			margin-right: 150px;
+			padding-top: 20px;
+			color: white;	
+			text-shadow: 5px 5px 5px #CD6155;
+	}
+	
+	.filmIcon {
+			float: left;
+			height: 130px;
+			border-radius: 20px;
+			margin-left: 100px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			border: 2px inset;
+			padding: 0px;
+			
+		}
+	.heading {
+			background-color: #C0AAEF;
+		}
+	img {
+			height: 300px;
+			padding: 30px;
+		}
+	.emilyinParis, .startUp, .matilda, .fiveFeetApart{
+			float: left;
+			padding-top: 25px;
+		}
+	
+	.fiveFeetApart {
+			height: 250px;
+		}
+	.emilyinParisdetails, .startUpdetails,.matildaDetails, .fiveFeetApartdetails {
+			background-color: #FADBD8;
+			margin: 50px 150px ;
+			padding-bottom: 20px;
+			line-height: 30px;
+			
+			
+		}
+	

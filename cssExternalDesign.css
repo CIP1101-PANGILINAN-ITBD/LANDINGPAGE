@@ -1,0 +1,49 @@
+body {
+			background-color: #bdded5 ;
+			font-size: 1.125em;
+			font-family: Tahoma;
+			margin: 30px;
+	}
+	
+	h1 {
+			font-family: Georgia; 
+			background-color: #DEAAA8; 
+			color: white; 
+			font-size:3em;
+			text-transform: uppercase; 
+			word-spacing:20px; 
+			letter-spacing:4px; 
+			text-align: center;
+			text-shadow: 5px 5px 3px black;
+		}
+		
+	h2 {
+			font-family:Georgia; 
+			font-style: oblique;
+			font-size: 35px;
+			text-shadow: 5px 5px 5px #DEAAA8;
+			
+			
+		}
+	
+	p {
+			line-height:1.5; 
+			background-color: #e6fad7 ; 
+			color: #3c514c;
+			text-align: justify;
+			font-size: 20px;
+			padding: 20px;
+		}
+	mark {
+			background-color:#FAEEE8;
+			color: #dd4444;
+		}
+	
+	img.childhood {
+			height: 230px;
+	}
+	
+	img.teenage {
+			height: 300px;	
+	}
+
